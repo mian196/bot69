@@ -10,7 +10,7 @@
     "DATABASE_URL": {
       "description": "mongodb+srv://ghost196:<9GqklCPAR0ZsUBzC>@cluster0.g9fat35.mongodb.net/?retryWrites=true&w=majority",
       "required": false,
-      "value": ""
+      "value": "mongodb+srv://ghost196:<9GqklCPAR0ZsUBzC>@cluster0.g9fat35.mongodb.net/?retryWrites=true&w=majority"
     },
     "SESSION_ID": {
       "description": "Xlicon_49093fd7-5f53-4ca8-8efe-1d038d7bc800",
